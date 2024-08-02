@@ -6,6 +6,11 @@ import main_bg from './main_bg.jpg'
 import ai from './ai.jpg'
 import robothead from './robothead.png'
 import humanoid from './humaniod.png'
+import comp1 from './comp1.jpg'
+import comp2 from './comp2.jpg'
+import comp3 from './comp3.jpg'
+import code from './code.jpg'
+import bg from './bg.jpg'
 
 
 export const assets = {
@@ -16,5 +21,10 @@ export const assets = {
     main_bg,
     ai,
     robothead,
-    humanoid
+    humanoid,
+    comp1,
+    comp2,
+    comp3,
+    code,
+    bg
 }

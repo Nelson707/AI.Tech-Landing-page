@@ -11,6 +11,10 @@ a{
   text-decoration: none;
 }
 
+body{
+  background: url('/main_bg2.jpg') no-repeat;
+}
+
 @keyframes fadeIn {
   0%{
     opacity: 0;
