@@ -1,0 +1,21 @@
+.team{
+    background: rgb(60, 129, 224);
+    padding: 70px 50px;
+}
+
+.team h1{
+    color: #fff;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    width: 15%;
+    
+}
+
+.team h2{
+    font-size: 30px;
+    color: #fff;
+    margin: 10px 0;
+
+}

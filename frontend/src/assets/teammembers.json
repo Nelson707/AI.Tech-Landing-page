@@ -1,0 +1,24 @@
+[
+    {
+        "image": "images/john-doe.jpg",
+        "name": "John Doe",
+        "role": "Frontend Developer",
+        "bio": "Expert in React and UI/UX design.",
+        "socialLinks": [
+            { "icon": "fab fa-linkedin", "url": "https://linkedin.com/in/johndoe" },
+            { "icon": "fab fa-twitter", "url": "https://twitter.com/johndoe" },
+            { "icon": "fab fa-github", "url": "https://github.com/johndoe" }
+        ]
+    },
+    {
+        "image": "images/jane-smith.jpg",
+        "name": "Jane Smith",
+        "role": "Backend Developer",
+        "bio": "Specializes in Node.js and databases.",
+        "socialLinks": [
+            { "icon": "fab fa-linkedin", "url": "https://linkedin.com/in/janesmith" },
+            { "icon": "fab fa-twitter", "url": "https://twitter.com/janesmith" },
+            { "icon": "fab fa-github", "url": "https://github.com/janesmith" }
+        ]
+    }
+]
