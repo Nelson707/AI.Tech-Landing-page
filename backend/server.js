@@ -2,6 +2,7 @@ import express from "express"
 import cors from "cors"
 import { connectDB } from "./config/db.js"
 import servicesRouter from "./routes/servicesRoute.js"
+import projectRouter from "./routes/projectsRoute.js"
 
 
 // app config
@@ -17,6 +18,7 @@ connectDB();
 
 // API endpoint
 app.use("/api/services",servicesRouter)
+app.use("/api/projects",projectRouter)
 app.use("/images",express.static('uploads'))
 
 
